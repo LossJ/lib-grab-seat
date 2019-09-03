@@ -223,8 +223,7 @@ def tomorrow_grab_best_seat(username,password,start_hour,duration_hour,room):
 
 
 if __name__ == '__main__':
-    tomorrow_grab_best_seat(username='201626802170', password='xin31415926', start_hour=7, duration_hour=15, room=3)
-    # tomorrow_grab_best_seat(username='201626905001', password='z123456', start_hour=8, duration_hour=14, room=2)
+    tomorrow_grab_best_seat(username='201623333333', password='23333333', start_hour=7, duration_hour=15, room=1)
 
 
 
